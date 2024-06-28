@@ -2,7 +2,6 @@
 ## HTML CODE:
 ```
 <h1>HELLO</h1>
-<h2>DHANA</h2>
 <p>I am Dhanalakshmi from Computer Science and Engineering department second year</p>
 <a href="https://lms2.cse.saveetha.in/login/index.php">SAVEETHA</a><br>
 <center>
@@ -11,15 +10,21 @@
 
 
 <ol>
-    <li>ONE</li>
-    <li>TWO</li>
-    <li>THREE</li>
+   <li>WEB DEVELOPMENT</li>
+    <li>PYTHON</li>
+    <li>C</li>
+    <li>C++</li>
+    <li>DATA STRUCTURES</li>
+    <li>SQL</li>
 </ol>
 
 <ul>
-    <li>one</li>
-    <li>two</li>
-    <li>three</li>
+    <li>WEB DEVELOPMENT</li>
+    <li>PYTHON</li>
+    <li>C</li>
+    <li>C++</li>
+    <li>DATA STRUCTURES</li>
+    <li>SQL</li>
 </ul>
 
 <hr>
